@@ -7,14 +7,14 @@ Left click to mask, right click to unmask. Select masking unit (chip, tile, modu
 The transform between data coordinates and real gemoetry is handled by extra_geom snapped geometry.
 
 Requires:
-Jupyter \n
-matplotlib \\
-xarray \\
-IPython \\
-ipywidgets \\
-(from Eu-XFEL) \\
-extra \\
-extra_data \\
+Jupyter <br>
+matplotlib <br>
+xarray <br>
+IPython <br>
+ipywidgets <br>
+(from Eu-XFEL) <br>
+extra <br>
+extra_data <br>
 extra_geom
 
 Written by Tobias Eklund and Yizhi Lui (2025) for FXE beamtimes 3273, 7944.
