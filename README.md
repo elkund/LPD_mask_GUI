@@ -8,6 +8,7 @@ The transform between data coordinates and real gemoetry is handled by extra_geo
 
 Requires: <br>
 Jupyter <br>
+numpy <br>
 matplotlib <br>
 xarray <br>
 IPython <br>
