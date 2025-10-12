@@ -6,7 +6,7 @@ Left click to mask, right click to unmask. Select masking unit (chip, tile, modu
 
 The transform between data coordinates and real gemoetry is handled by extra_geom snapped geometry.
 
-Requires:
+Requires: <br>
 Jupyter <br>
 matplotlib <br>
 xarray <br>
