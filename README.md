@@ -18,4 +18,4 @@ extra <br>
 extra_data <br>
 extra_geom
 
-Written by Tobias Eklund and Yizhi Lui (2025) for FXE beamtimes 3273, 7944.
+Written by Tobias Eklund and Yizhi Liu (2025) for FXE beamtimes 3273, 7944.
