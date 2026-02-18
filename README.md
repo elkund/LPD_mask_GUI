@@ -13,7 +13,7 @@ matplotlib <br>
 xarray <br>
 IPython <br>
 ipywidgets <br>
-(from Eu-XFEL) <br>
+and (from Eu-XFEL) <br>
 extra <br>
 extra_data <br>
 extra_geom
